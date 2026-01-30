@@ -1,0 +1,32 @@
+{
+ "board_settings": {
+    "name": "Board Name",
+    "background": "1"
+},
+
+"colums":[
+    {
+        "id":"0",
+        "name":"Column Name",
+    
+    "cards": [
+        {
+        "id": "c1",
+        "title":"chicken",
+        "desc": "i like eating"
+        },
+        {
+            "id": "c2",
+            "title":"burger",
+            "desc": "i like eating burgers"
+            }
+
+    ]
+
+    }
+]
+
+
+
+
+}
